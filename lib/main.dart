@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:wisatabandung/detailscreen/detail_screen.dart';
 import 'package:wisatabandung/mainscreen/main_screen.dart';
 
 void main() => runApp(const MyApp());
